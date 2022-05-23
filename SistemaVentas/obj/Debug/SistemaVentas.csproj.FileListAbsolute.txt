@@ -1,0 +1,17 @@
+C:\Users\Agustin\source\repos\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.exe.config
+C:\Users\Agustin\source\repos\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.exe
+C:\Users\Agustin\source\repos\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.pdb
+C:\Users\Agustin\source\repos\SistemaVentas\SistemaVentas\bin\Debug\CapaPresentacion.dll
+C:\Users\Agustin\source\repos\SistemaVentas\SistemaVentas\bin\Debug\CapaNegocio.dll
+C:\Users\Agustin\source\repos\SistemaVentas\SistemaVentas\bin\Debug\CapaDatos.dll
+C:\Users\Agustin\source\repos\SistemaVentas\SistemaVentas\bin\Debug\CapaPresentacion.pdb
+C:\Users\Agustin\source\repos\SistemaVentas\SistemaVentas\bin\Debug\CapaNegocio.pdb
+C:\Users\Agustin\source\repos\SistemaVentas\SistemaVentas\bin\Debug\CapaDatos.pdb
+C:\Users\Agustin\source\repos\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.csproj.AssemblyReference.cache
+C:\Users\Agustin\source\repos\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Properties.Resources.resources
+C:\Users\Agustin\source\repos\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.csproj.GenerateResource.cache
+C:\Users\Agustin\source\repos\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.csproj.CoreCompileInputs.cache
+C:\Users\Agustin\source\repos\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.csproj.CopyComplete
+C:\Users\Agustin\source\repos\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.exe
+C:\Users\Agustin\source\repos\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.pdb
+C:\Users\Agustin\source\repos\SistemaVentas\SistemaVentas\bin\Debug\CapaDatos.dll.config
