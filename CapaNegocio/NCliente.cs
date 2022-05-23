@@ -61,5 +61,6 @@ namespace CapaNegocio
             Obj.TextoBuscar = textobuscar;
             return Obj.BuscarDni(Obj);
         }
+
     }
 }
